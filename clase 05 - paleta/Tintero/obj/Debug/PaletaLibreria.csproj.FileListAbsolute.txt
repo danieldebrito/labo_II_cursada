@@ -1,0 +1,15 @@
+F:\Tintero\Tintero\bin\Debug\Tintero.dll
+F:\Tintero\Tintero\bin\Debug\Tintero.pdb
+F:\Tintero\Tintero\obj\Debug\PaletaLibreria.csprojResolveAssemblyReference.cache
+F:\Tintero\Tintero\obj\Debug\Tintero.dll
+F:\Tintero\Tintero\obj\Debug\Tintero.pdb
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\01 paleta\paleta\Tintero\bin\Debug\Tintero.dll
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\01 paleta\paleta\Tintero\bin\Debug\Tintero.pdb
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\01 paleta\paleta\Tintero\obj\Debug\PaletaLibreria.csprojResolveAssemblyReference.cache
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\01 paleta\paleta\Tintero\obj\Debug\Tintero.dll
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\01 paleta\paleta\Tintero\obj\Debug\Tintero.pdb
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\Tintero\obj\Debug\PaletaLibreria.csprojResolveAssemblyReference.cache
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\Tintero\obj\Debug\Tintero.dll
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\Tintero\bin\Debug\Tintero.dll
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\Tintero\bin\Debug\Tintero.pdb
+F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\Tintero\obj\Debug\Tintero.pdb

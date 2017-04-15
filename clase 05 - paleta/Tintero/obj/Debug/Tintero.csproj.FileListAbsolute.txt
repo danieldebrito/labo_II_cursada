@@ -1,0 +1,15 @@
+C:\Users\alumno\Desktop\Tintero\Tintero\bin\Debug\Tintero.dll
+C:\Users\alumno\Desktop\Tintero\Tintero\bin\Debug\Tintero.pdb
+C:\Users\alumno\Desktop\Tintero\Tintero\obj\Debug\Tintero.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Tintero\Tintero\obj\Debug\Tintero.dll
+C:\Users\alumno\Desktop\Tintero\Tintero\obj\Debug\Tintero.pdb
+E:\Tintero\Tintero\obj\Debug\Tintero.csprojResolveAssemblyReference.cache
+E:\Tintero\Tintero\obj\Debug\Tintero.dll
+E:\Tintero\Tintero\obj\Debug\Tintero.pdb
+E:\Tintero\Tintero\bin\Debug\Tintero.dll
+E:\Tintero\Tintero\bin\Debug\Tintero.pdb
+F:\Tintero\Tintero\obj\Debug\Tintero.csprojResolveAssemblyReference.cache
+F:\Tintero\Tintero\obj\Debug\Tintero.dll
+F:\Tintero\Tintero\bin\Debug\Tintero.dll
+F:\Tintero\Tintero\bin\Debug\Tintero.pdb
+F:\Tintero\Tintero\obj\Debug\Tintero.pdb

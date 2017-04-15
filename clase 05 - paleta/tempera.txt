@@ -1,0 +1,28 @@
+tempera{
+
+(-)_color:ConsoleColor
+(-)_marca:string
+(-)_cantidad:int
+
+//constructor 3 parametros
+
+(-)Mostrar():string//instancia
+
+(+)Mostrar(Tempera):string//clase
+
+//sobrecargas
+
+== (tempera, tempera) //marca y color
+
+implicit (tempera) : int // cantidad
+
+explicit (tempera) : string
+
++ (tempera, tempera) : tempera
+-> si temperas iguales, acumula cantidad
+
+
++ (tempera, int) : tempera
+-> acumula cantidad 
+}
+
