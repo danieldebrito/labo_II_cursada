@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\bin\Debug\ClassLibraryPaletaIndex.dll
+C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\bin\Debug\ClassLibraryPaletaIndex.pdb
+C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.dll
+C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.pdb
