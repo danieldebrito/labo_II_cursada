@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\bin\Debug\PaletaForm.exe.config
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\bin\Debug\PaletaForm.exe
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\bin\Debug\PaletaForm.pdb
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\bin\Debug\PaletaListaLibrary.dll
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\bin\Debug\PaletaListaLibrary.pdb
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.Form1.resources
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.Properties.Resources.resources
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.exe
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.pdb
+C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.FormTempera.resources
+C:\Users\Daniel\Desktop\PaletaListaForm\PaletaForm\bin\Debug\PaletaForm.exe.config
+C:\Users\Daniel\Desktop\PaletaListaForm\PaletaForm\obj\Debug\PaletaForm.exe
+C:\Users\Daniel\Desktop\PaletaListaForm\PaletaForm\obj\Debug\PaletaForm.pdb

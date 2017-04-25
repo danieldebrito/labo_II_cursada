@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\bin\Debug\PruebaConsola.exe
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\bin\Debug\PruebaConsola.pdb
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\bin\Debug\PaletaListaLibrary.dll
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\bin\Debug\PaletaListaLibrary.pdb
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\obj\Debug\PruebaConsola.exe
+C:\Users\Daniel\Desktop\PaletaLista\PruebaConsola\obj\Debug\PruebaConsola.pdb

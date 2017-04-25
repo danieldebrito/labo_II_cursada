@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaletaListaLibrary", "PaletaListaLibrary\PaletaListaLibrary.csproj", "{6126E825-B1E3-4485-981E-74A4B646FA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaConsola", "PruebaConsola\PruebaConsola.csproj", "{726B1053-F004-4FAB-B8A2-9D7DF3C2F22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaletaForm", "PaletaForm\PaletaForm.csproj", "{329B09B0-60B5-402F-9EF4-2A03487275E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6126E825-B1E3-4485-981E-74A4B646FA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6126E825-B1E3-4485-981E-74A4B646FA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6126E825-B1E3-4485-981E-74A4B646FA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6126E825-B1E3-4485-981E-74A4B646FA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726B1053-F004-4FAB-B8A2-9D7DF3C2F22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726B1053-F004-4FAB-B8A2-9D7DF3C2F22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726B1053-F004-4FAB-B8A2-9D7DF3C2F22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726B1053-F004-4FAB-B8A2-9D7DF3C2F22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329B09B0-60B5-402F-9EF4-2A03487275E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329B09B0-60B5-402F-9EF4-2A03487275E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329B09B0-60B5-402F-9EF4-2A03487275E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329B09B0-60B5-402F-9EF4-2A03487275E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

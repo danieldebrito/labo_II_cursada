@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\PaletaLista\PaletaListaLibrary\bin\Debug\PaletaListaLibrary.dll
+C:\Users\Daniel\Desktop\PaletaLista\PaletaListaLibrary\bin\Debug\PaletaListaLibrary.pdb
+C:\Users\Daniel\Desktop\PaletaLista\PaletaListaLibrary\obj\Debug\PaletaListaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PaletaLista\PaletaListaLibrary\obj\Debug\PaletaListaLibrary.dll
+C:\Users\Daniel\Desktop\PaletaLista\PaletaListaLibrary\obj\Debug\PaletaListaLibrary.pdb
