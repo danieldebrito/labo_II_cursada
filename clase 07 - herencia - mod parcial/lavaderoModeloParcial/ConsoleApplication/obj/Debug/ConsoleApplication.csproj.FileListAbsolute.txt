@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\bin\Debug\LavaderoLibreria.dll
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\bin\Debug\LavaderoLibreria.pdb
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

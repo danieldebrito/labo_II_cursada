@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\LavaderoLibreria\bin\Debug\LavaderoLibreria.dll
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\LavaderoLibreria\bin\Debug\LavaderoLibreria.pdb
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\LavaderoLibreria\obj\Debug\LavaderoLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\LavaderoLibreria\obj\Debug\LavaderoLibreria.dll
+C:\Users\Daniel\Desktop\lavaderoModeloParcial\LavaderoLibreria\obj\Debug\LavaderoLibreria.pdb

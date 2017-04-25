@@ -1,0 +1,1 @@
+﻿public enum EVehiculos { auto, camion, moto}

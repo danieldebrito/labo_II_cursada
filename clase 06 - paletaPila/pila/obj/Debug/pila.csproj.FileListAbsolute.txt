@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\paletaPila\pila\bin\Debug\pila.exe.config
+C:\Users\alumno\Desktop\paletaPila\pila\bin\Debug\pila.exe
+C:\Users\alumno\Desktop\paletaPila\pila\bin\Debug\pila.pdb
+C:\Users\alumno\Desktop\paletaPila\pila\obj\Debug\pila.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\paletaPila\pila\obj\Debug\pila.exe
+C:\Users\alumno\Desktop\paletaPila\pila\obj\Debug\pila.pdb

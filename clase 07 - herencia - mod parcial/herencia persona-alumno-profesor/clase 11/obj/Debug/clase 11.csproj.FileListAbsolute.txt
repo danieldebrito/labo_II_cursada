@@ -1,0 +1,5 @@
+F:\clase 11\clase 11\bin\Debug\clase 11.exe.config
+F:\clase 11\clase 11\bin\Debug\clase 11.exe
+F:\clase 11\clase 11\bin\Debug\clase 11.pdb
+F:\clase 11\clase 11\obj\Debug\clase 11.exe
+F:\clase 11\clase 11\obj\Debug\clase 11.pdb
