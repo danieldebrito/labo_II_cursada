@@ -1,0 +1,1 @@
+﻿public enum ETipoProducto { Galletita, Gaseosa, Jugo, Todos}
