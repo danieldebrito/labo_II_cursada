@@ -1,0 +1,24 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\Entidades.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

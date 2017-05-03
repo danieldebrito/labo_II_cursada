@@ -1,0 +1,14 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\deBrito.Daniel.3D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\Entidades\bin\Debug\Entidades.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\Entidades\obj\Debug\Entidades.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.3D\Entidades\obj\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\Entidades\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\Entidades\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\Entidades\obj\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\1 parcial lab\1 parcial 2017\deBrito.Daniel corregido\Entidades\obj\Debug\Entidades.pdb
