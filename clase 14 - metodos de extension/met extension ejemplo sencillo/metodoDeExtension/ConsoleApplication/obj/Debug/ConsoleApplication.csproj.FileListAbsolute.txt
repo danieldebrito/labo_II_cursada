@@ -1,0 +1,21 @@
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\bin\Debug\LibMetExtension.dll
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\bin\Debug\personaSellada.dll
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\bin\Debug\LibMetExtension.pdb
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\bin\Debug\ClassLibrary1.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\bin\Debug\LibMetExtension.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\bin\Debug\LibMetExtension.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\met extension ejemplo sencillo\metodoDeExtension\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\met extension ejemplo sencillo\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\met extension ejemplo sencillo\metodoDeExtension\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
