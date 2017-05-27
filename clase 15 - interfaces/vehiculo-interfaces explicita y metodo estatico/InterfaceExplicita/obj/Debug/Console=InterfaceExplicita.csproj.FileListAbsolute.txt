@@ -1,0 +1,8 @@
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\bin\Debug\InterfaceExplicita.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\bin\Debug\InterfaceExplicita.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\bin\Debug\InterfaceExplicita.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\bin\Debug\ClassLibraryVehiculo.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\bin\Debug\ClassLibraryVehiculo.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\obj\Debug\Console=InterfaceExplicita.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\obj\Debug\InterfaceExplicita.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\InterfaceExplicita\obj\Debug\InterfaceExplicita.pdb

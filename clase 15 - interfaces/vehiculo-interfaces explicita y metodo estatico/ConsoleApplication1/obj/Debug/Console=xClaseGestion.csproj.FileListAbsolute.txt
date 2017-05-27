@@ -1,0 +1,8 @@
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\bin\Debug\ClassLibraryVehiculo.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\bin\Debug\ClassLibraryVehiculo.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 15 - interfaces\vehiculo-interfaces\ConsoleApplication1\obj\Debug\Console=xClaseGestion.csprojResolveAssemblyReference.cache

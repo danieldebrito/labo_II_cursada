@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\vehiculo-interfaces\ClassLibraryVehiculo\bin\Debug\ClassLibraryVehiculo.dll
+C:\Users\alumno\Desktop\vehiculo-interfaces\ClassLibraryVehiculo\bin\Debug\ClassLibraryVehiculo.pdb
+C:\Users\alumno\Desktop\vehiculo-interfaces\ClassLibraryVehiculo\obj\Debug\ClassLibraryVehiculo.dll
+C:\Users\alumno\Desktop\vehiculo-interfaces\ClassLibraryVehiculo\obj\Debug\ClassLibraryVehiculo.pdb
