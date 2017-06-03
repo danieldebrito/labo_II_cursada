@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\bin\Debug\colecNrosLib.dll
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\bin\Debug\colecNrosLib.pdb
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

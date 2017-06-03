@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\colecNrosLib\bin\Debug\colecNrosLib.dll
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\colecNrosLib\bin\Debug\colecNrosLib.pdb
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\colecNrosLib\obj\Debug\colecNrosLib.dll
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\colecNrosLib\obj\Debug\colecNrosLib.pdb
+C:\Users\Daniel\Desktop\clase 13 - colectora De Nros (execpciones)\colecNrosLib\obj\Debug\colecNrosLib.csprojResolveAssemblyReference.cache
