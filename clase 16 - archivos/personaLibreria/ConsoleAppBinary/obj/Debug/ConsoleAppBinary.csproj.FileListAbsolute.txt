@@ -1,0 +1,16 @@
+E:\personaLibreria\ConsoleAppBinary\bin\Debug\ConsoleAppBinary.exe.config
+E:\personaLibreria\ConsoleAppBinary\obj\Debug\ConsoleAppBinary.csprojResolveAssemblyReference.cache
+E:\personaLibreria\ConsoleAppBinary\bin\Debug\ConsoleAppBinary.exe
+E:\personaLibreria\ConsoleAppBinary\bin\Debug\ConsoleAppBinary.pdb
+E:\personaLibreria\ConsoleAppBinary\bin\Debug\personaLibreria.dll
+E:\personaLibreria\ConsoleAppBinary\bin\Debug\personaLibreria.pdb
+E:\personaLibreria\ConsoleAppBinary\obj\Debug\ConsoleAppBinary.exe
+E:\personaLibreria\ConsoleAppBinary\obj\Debug\ConsoleAppBinary.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\bin\Debug\ConsoleAppBinary.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\bin\Debug\ConsoleAppBinary.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\bin\Debug\ConsoleAppBinary.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\bin\Debug\personaLibreria.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\bin\Debug\personaLibreria.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\obj\Debug\ConsoleAppBinary.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\obj\Debug\ConsoleAppBinary.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppBinary\obj\Debug\ConsoleAppBinary.pdb

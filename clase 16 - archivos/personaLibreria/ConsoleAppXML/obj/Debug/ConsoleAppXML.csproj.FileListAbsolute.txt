@@ -1,0 +1,16 @@
+E:\personaLibreria\ConsoleAppXML\bin\Debug\ConsoleAppXML.exe.config
+E:\personaLibreria\ConsoleAppXML\obj\Debug\ConsoleAppXML.csprojResolveAssemblyReference.cache
+E:\personaLibreria\ConsoleAppXML\bin\Debug\ConsoleAppXML.exe
+E:\personaLibreria\ConsoleAppXML\bin\Debug\ConsoleAppXML.pdb
+E:\personaLibreria\ConsoleAppXML\bin\Debug\personaLibreria.dll
+E:\personaLibreria\ConsoleAppXML\bin\Debug\personaLibreria.pdb
+E:\personaLibreria\ConsoleAppXML\obj\Debug\ConsoleAppXML.exe
+E:\personaLibreria\ConsoleAppXML\obj\Debug\ConsoleAppXML.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\bin\Debug\ConsoleAppXML.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\obj\Debug\ConsoleAppXML.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\obj\Debug\ConsoleAppXML.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\bin\Debug\ConsoleAppXML.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\bin\Debug\ConsoleAppXML.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\bin\Debug\personaLibreria.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\bin\Debug\personaLibreria.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleAppXML\obj\Debug\ConsoleAppXML.csprojResolveAssemblyReference.cache

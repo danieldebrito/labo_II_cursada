@@ -1,0 +1,8 @@
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\bin\Debug\personaLibreria.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\bin\Debug\personaLibreria.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\ConsoleApplication\obj\Debug\ConsoleApp.TXT.csprojResolveAssemblyReference.cache

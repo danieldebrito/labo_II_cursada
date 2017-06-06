@@ -1,0 +1,13 @@
+E:\personaLibreria\personaLibreria\bin\Debug\personaLibreria.dll
+E:\personaLibreria\personaLibreria\bin\Debug\personaLibreria.pdb
+E:\personaLibreria\personaLibreria\obj\Debug\personaLibreria.dll
+E:\personaLibreria\personaLibreria\obj\Debug\personaLibreria.pdb
+J:\personaLibreria\personaLibreria\bin\Debug\personaLibreria.dll
+J:\personaLibreria\personaLibreria\bin\Debug\personaLibreria.pdb
+J:\personaLibreria\personaLibreria\obj\Debug\personaLibreria.csprojResolveAssemblyReference.cache
+J:\personaLibreria\personaLibreria\obj\Debug\personaLibreria.dll
+J:\personaLibreria\personaLibreria\obj\Debug\personaLibreria.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\personaLibreria\bin\Debug\personaLibreria.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\personaLibreria\bin\Debug\personaLibreria.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\personaLibreria\obj\Debug\personaLibreria.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 16 - archivos\personaLibreria\personaLibreria\obj\Debug\personaLibreria.pdb

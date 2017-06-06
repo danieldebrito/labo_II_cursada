@@ -1,0 +1,8 @@
+E:\personaLibreria\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\personaLibreria\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\personaLibreria\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\personaLibreria\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\personaLibreria\ConsoleApplication\bin\Debug\personaLibreria.dll
+E:\personaLibreria\ConsoleApplication\bin\Debug\personaLibreria.pdb
+E:\personaLibreria\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\personaLibreria\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
