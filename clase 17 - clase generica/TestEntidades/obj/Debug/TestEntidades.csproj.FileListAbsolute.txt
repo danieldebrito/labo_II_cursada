@@ -1,0 +1,8 @@
+F:\Clase_2017-06-05\TestEntidades\bin\Debug\TestEntidades.exe.config
+F:\Clase_2017-06-05\TestEntidades\obj\Debug\TestEntidades.csprojResolveAssemblyReference.cache
+F:\Clase_2017-06-05\TestEntidades\bin\Debug\TestEntidades.exe
+F:\Clase_2017-06-05\TestEntidades\bin\Debug\TestEntidades.pdb
+F:\Clase_2017-06-05\TestEntidades\bin\Debug\Entidades.dll
+F:\Clase_2017-06-05\TestEntidades\bin\Debug\Entidades.pdb
+F:\Clase_2017-06-05\TestEntidades\obj\Debug\TestEntidades.exe
+F:\Clase_2017-06-05\TestEntidades\obj\Debug\TestEntidades.pdb

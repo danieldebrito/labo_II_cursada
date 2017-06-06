@@ -1,0 +1,9 @@
+F:\Clase_2017-06-05\Entidades\bin\Debug\Entidades.dll
+F:\Clase_2017-06-05\Entidades\bin\Debug\Entidades.pdb
+F:\Clase_2017-06-05\Entidades\obj\Debug\Entidades.dll
+F:\Clase_2017-06-05\Entidades\obj\Debug\Entidades.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\Entidades\bin\Debug\Entidades.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\Entidades\bin\Debug\Entidades.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\Entidades\obj\Debug\Entidades.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\Entidades\obj\Debug\Entidades.pdb

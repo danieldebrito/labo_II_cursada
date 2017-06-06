@@ -1,0 +1,16 @@
+F:\Clase_2017-06-05\TestEntidadesDeposito\bin\Debug\TestEntidadesDeposito.exe.config
+F:\Clase_2017-06-05\TestEntidadesDeposito\obj\Debug\TestEntidadesDeposito.csprojResolveAssemblyReference.cache
+F:\Clase_2017-06-05\TestEntidadesDeposito\bin\Debug\TestEntidadesDeposito.exe
+F:\Clase_2017-06-05\TestEntidadesDeposito\bin\Debug\TestEntidadesDeposito.pdb
+F:\Clase_2017-06-05\TestEntidadesDeposito\bin\Debug\Entidades.dll
+F:\Clase_2017-06-05\TestEntidadesDeposito\bin\Debug\Entidades.pdb
+F:\Clase_2017-06-05\TestEntidadesDeposito\obj\Debug\TestEntidadesDeposito.exe
+F:\Clase_2017-06-05\TestEntidadesDeposito\obj\Debug\TestEntidadesDeposito.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\bin\Debug\TestEntidadesDeposito.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\obj\Debug\TestEntidadesDeposito.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\obj\Debug\TestEntidadesDeposito.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\bin\Debug\TestEntidadesDeposito.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\bin\Debug\TestEntidadesDeposito.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\bin\Debug\Entidades.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\bin\Debug\Entidades.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 17 - clase generica\TestEntidadesDeposito\obj\Debug\TestEntidadesDeposito.csprojResolveAssemblyReference.cache

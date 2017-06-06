@@ -1,0 +1,8 @@
+F:\Clase_2017-06-05\TestEntidadesCocina\bin\Debug\TestEntidadesCocina.exe.config
+F:\Clase_2017-06-05\TestEntidadesCocina\bin\Debug\TestEntidadesCocina.exe
+F:\Clase_2017-06-05\TestEntidadesCocina\bin\Debug\TestEntidadesCocina.pdb
+F:\Clase_2017-06-05\TestEntidadesCocina\bin\Debug\Entidades.dll
+F:\Clase_2017-06-05\TestEntidadesCocina\bin\Debug\Entidades.pdb
+F:\Clase_2017-06-05\TestEntidadesCocina\obj\Debug\TestEntidadesCocina.csprojResolveAssemblyReference.cache
+F:\Clase_2017-06-05\TestEntidadesCocina\obj\Debug\TestEntidadesCocina.exe
+F:\Clase_2017-06-05\TestEntidadesCocina\obj\Debug\TestEntidadesCocina.pdb
