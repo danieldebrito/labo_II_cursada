@@ -1,5 +1,0 @@
-El objeto es: 
-Nombre: Joey Ramone
-Edad: 68
-Es mayor: True
-
