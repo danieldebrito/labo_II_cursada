@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQLLibrary.Properties.Resources.resources
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\Resources\Padron_log.ldf
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\Resources\Padron.mdf
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.dll.config
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csprojResolveAssemblyReference.cache

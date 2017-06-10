@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.exe.config
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\Resources\Padron_log.ldf
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\Resources\Padron.mdf
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.exe
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.exe
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.pdb
