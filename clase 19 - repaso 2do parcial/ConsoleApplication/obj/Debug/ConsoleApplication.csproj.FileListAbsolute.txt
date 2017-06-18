@@ -1,0 +1,11 @@
+E:\ClassLibrary 12-06-17\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\ClassLibrary 12-06-17\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\ClassLibrary 12-06-17\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\ClassLibrary 12-06-17\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\ClassLibrary 12-06-17\ConsoleApplication\bin\Debug\ClassLibrary.dll
+E:\ClassLibrary 12-06-17\ConsoleApplication\bin\Debug\ClassLibrary.pdb
+E:\ClassLibrary 12-06-17\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\ClassLibrary 12-06-17\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 19 - repaso de parcial\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 19 - repaso de parcial\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 19 - repaso de parcial\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

@@ -1,0 +1,4 @@
+E:\ClassLibrary 12-06-17\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\ClassLibrary 12-06-17\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\ClassLibrary 12-06-17\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\ClassLibrary 12-06-17\ClassLibrary\obj\Debug\ClassLibrary.pdb
