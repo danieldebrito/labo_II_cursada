@@ -1,0 +1,35 @@
+E:\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.dll
+E:\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.pdb
+E:\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.dll
+E:\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.pdb
+E:\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.csprojResolveAssemblyReference.cache
+E:\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.dll
+E:\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.pdb
+E:\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+E:\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.dll
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.pdb
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.dll
+C:\Users\Daniel\Desktop\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\2 parcial lab\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.pdb
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.dll
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\FrutaClassLibrary.pdb
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\ExcepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.dll
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.pdb
+C:\Users\Daniel\Desktop\2017 2do parcial\FrutaClassLibrary\FrutaClassLibrary\obj\Debug\FrutaClassLibrary.csprojResolveAssemblyReference.cache
