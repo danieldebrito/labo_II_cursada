@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\obj\Debug\VehiculoClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\bin\Debug\VehiculoClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\bin\Debug\VehiculoClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\obj\Debug\VehiculoClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\obj\Debug\VehiculoClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\bin\Debug\ExcepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\VehiculoClassLibrary\bin\Debug\ExcepcionesClassLibrary.pdb

@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\VehiculoClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\VehiculoClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\GestionClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\GestionClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\ExcepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ConsoleApplication\bin\Debug\ExcepcionesClassLibrary.pdb

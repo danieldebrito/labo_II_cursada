@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ExcepcionesClassLibrary\bin\Debug\ExcepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ExcepcionesClassLibrary\bin\Debug\ExcepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ExcepcionesClassLibrary\obj\Debug\ExcepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ExcepcionesClassLibrary\obj\Debug\ExcepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\interfaces con metodo de extencion\ExcepcionesClassLibrary\obj\Debug\ExcepcionesClassLibrary.csprojResolveAssemblyReference.cache
