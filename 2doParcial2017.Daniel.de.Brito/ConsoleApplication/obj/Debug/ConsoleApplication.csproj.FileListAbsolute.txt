@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\ExepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\Fruta.ClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\ExepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\Fruta.ClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Documents\GitHub\practicasCShrap-2017\2doParcial2017.Daniel.de.Brito\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Documents\GitHub\practicasCShrap-2017\2doParcial2017.Daniel.de.Brito\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Documents\GitHub\practicasCShrap-2017\2doParcial2017.Daniel.de.Brito\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

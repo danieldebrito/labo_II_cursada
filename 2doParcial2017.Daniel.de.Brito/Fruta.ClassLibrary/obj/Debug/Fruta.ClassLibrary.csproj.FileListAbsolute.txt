@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\bin\Debug\Fruta.ClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\bin\Debug\Fruta.ClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\obj\Debug\Fruta.ClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\obj\Debug\Fruta.ClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\obj\Debug\Fruta.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\bin\Debug\ExepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\bin\Debug\ExepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\Fruta.ClassLibrary\bin\Debug\InterfacesClassLibrary.pdb

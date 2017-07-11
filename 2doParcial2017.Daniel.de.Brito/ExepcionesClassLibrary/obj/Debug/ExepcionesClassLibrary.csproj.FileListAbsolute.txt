@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ExepcionesClassLibrary\bin\Debug\ExepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ExepcionesClassLibrary\bin\Debug\ExepcionesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ExepcionesClassLibrary\obj\Debug\ExepcionesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\ExepcionesClassLibrary\obj\Debug\ExepcionesClassLibrary.pdb

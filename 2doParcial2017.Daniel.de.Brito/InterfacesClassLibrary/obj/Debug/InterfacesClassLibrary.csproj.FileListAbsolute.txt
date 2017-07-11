@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\InterfacesClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\InterfacesClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\InterfacesClassLibrary\obj\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\2doParcial2017.Daniel.de.Brito\InterfacesClassLibrary\obj\Debug\InterfacesClassLibrary.pdb
