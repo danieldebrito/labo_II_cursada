@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\ejemplo eventos\ejemplo eventos\bin\Debug\ejemplo eventos.dll
+C:\Users\Daniel\Desktop\ejemplo eventos\ejemplo eventos\bin\Debug\ejemplo eventos.pdb
+C:\Users\Daniel\Desktop\ejemplo eventos\ejemplo eventos\obj\Debug\ejemplo eventos.dll
+C:\Users\Daniel\Desktop\ejemplo eventos\ejemplo eventos\obj\Debug\ejemplo eventos.pdb
+C:\Users\Daniel\Desktop\ejemplo eventos\ejemplo eventos\obj\Debug\ejemplo eventos.csprojResolveAssemblyReference.cache

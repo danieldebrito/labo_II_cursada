@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\bin\Debug\estante.dll
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\bin\Debug\estante.pdb
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Daniel\Desktop\1er parcial 2016\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb

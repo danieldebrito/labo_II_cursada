@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\1er parcial 2016\estante\bin\Debug\estante.dll
+C:\Users\Daniel\Desktop\1er parcial 2016\estante\bin\Debug\estante.pdb
+C:\Users\Daniel\Desktop\1er parcial 2016\estante\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\1er parcial 2016\estante\obj\Debug\estante.dll
+C:\Users\Daniel\Desktop\1er parcial 2016\estante\obj\Debug\estante.pdb

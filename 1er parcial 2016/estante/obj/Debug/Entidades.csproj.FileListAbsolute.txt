@@ -3,3 +3,8 @@ C:\Users\Daniel\Desktop\1er parcial 2016\estante\bin\Debug\estante.pdb
 C:\Users\Daniel\Desktop\1er parcial 2016\estante\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\1er parcial 2016\estante\obj\Debug\estante.dll
 C:\Users\Daniel\Desktop\1er parcial 2016\estante\obj\Debug\estante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\estante\bin\Debug\estante.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\estante\bin\Debug\estante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\estante\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\estante\obj\Debug\estante.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\estante\obj\Debug\estante.pdb

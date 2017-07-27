@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\bin\Debug\vehiculos.dll
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\bin\Debug\vehiculos.pdb
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\alumno\Desktop\vehiculos\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\bin\Debug\vehiculos.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\bin\Debug\vehiculos.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

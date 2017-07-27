@@ -1,0 +1,1 @@
+﻿public enum EVelocidad { Minima = 40, Media = 60, Alta = 110, Super = 180, Hiper = 720}

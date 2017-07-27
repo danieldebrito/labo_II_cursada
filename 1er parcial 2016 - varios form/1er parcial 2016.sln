@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "estante\Entidades.csproj", "{36516F08-3A8B-4F95-83EF-5C061D4A8E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEstante", "TestEstante\TestEstante.csproj", "{2C327239-EC00-4396-AA96-A08C02FFA55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication", "WindowsFormsApplication\WindowsFormsApplication.csproj", "{A9B4780C-8731-48F2-A750-AE69F1A995FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36516F08-3A8B-4F95-83EF-5C061D4A8E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36516F08-3A8B-4F95-83EF-5C061D4A8E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36516F08-3A8B-4F95-83EF-5C061D4A8E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36516F08-3A8B-4F95-83EF-5C061D4A8E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C327239-EC00-4396-AA96-A08C02FFA55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C327239-EC00-4396-AA96-A08C02FFA55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C327239-EC00-4396-AA96-A08C02FFA55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C327239-EC00-4396-AA96-A08C02FFA55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B4780C-8731-48F2-A750-AE69F1A995FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B4780C-8731-48F2-A750-AE69F1A995FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B4780C-8731-48F2-A750-AE69F1A995FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B4780C-8731-48F2-A750-AE69F1A995FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

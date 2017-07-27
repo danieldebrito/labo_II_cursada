@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\ProveedorClassLibrary\InterfacesClassLibrary\bin\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\ProveedorClassLibrary\InterfacesClassLibrary\bin\Debug\InterfacesClassLibrary.pdb
+C:\Users\Daniel\Desktop\ProveedorClassLibrary\InterfacesClassLibrary\obj\Debug\InterfacesClassLibrary.dll
+C:\Users\Daniel\Desktop\ProveedorClassLibrary\InterfacesClassLibrary\obj\Debug\InterfacesClassLibrary.pdb

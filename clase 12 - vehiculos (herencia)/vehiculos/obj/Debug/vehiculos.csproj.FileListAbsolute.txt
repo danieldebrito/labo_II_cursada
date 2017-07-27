@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\vehiculos\vehiculos\bin\Debug\vehiculos.dll
+C:\Users\alumno\Desktop\vehiculos\vehiculos\bin\Debug\vehiculos.pdb
+C:\Users\alumno\Desktop\vehiculos\vehiculos\obj\Debug\vehiculos.dll
+C:\Users\alumno\Desktop\vehiculos\vehiculos\obj\Debug\vehiculos.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\vehiculos\bin\Debug\vehiculos.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\vehiculos\bin\Debug\vehiculos.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\vehiculos\obj\Debug\vehiculos.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\vehiculos\obj\Debug\vehiculos.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 12 - vehiculos herencia\vehiculos\obj\Debug\vehiculos.pdb

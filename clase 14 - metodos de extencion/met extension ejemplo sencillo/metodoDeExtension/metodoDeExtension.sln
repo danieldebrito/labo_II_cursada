@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMetExtension", "LibMetExtension\LibMetExtension.csproj", "{B924CD39-B4CB-446C-A55C-18148DF96C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{4F5562F1-E929-4849-90D6-4DC473E27E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B924CD39-B4CB-446C-A55C-18148DF96C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B924CD39-B4CB-446C-A55C-18148DF96C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B924CD39-B4CB-446C-A55C-18148DF96C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B924CD39-B4CB-446C-A55C-18148DF96C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5562F1-E929-4849-90D6-4DC473E27E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5562F1-E929-4849-90D6-4DC473E27E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5562F1-E929-4849-90D6-4DC473E27E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5562F1-E929-4849-90D6-4DC473E27E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

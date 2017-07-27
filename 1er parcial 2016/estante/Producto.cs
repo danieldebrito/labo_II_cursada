@@ -52,15 +52,13 @@ namespace estante
         }
         public static bool operator == (Producto prodUno, EMarcaProducto marca)
         {
-            if (prodUno.Marca == (EMarcaProducto)marca)
-                return true;
-            return false;
+            return prodUno.Marca == (EMarcaProducto)marca;
         }
         public static bool operator != (Producto prodUno, EMarcaProducto marca)
         { 
             return!(prodUno == marca);
         }
-        public static explicit operator int (Producto prod)
+        public static explicit operator int(Producto prod)
         {
             return prod._codigoBarra;
         }

@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\Exepciones.dll
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\ProveedorClassLibrary.dll
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\Exepciones.pdb
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\bin\Debug\ProveedorClassLibrary.pdb
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.carga.resources
+C:\Users\Daniel\Desktop\ProvFromsEventos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Mostrar.resources

@@ -31,8 +31,5 @@ namespace estante
 
             return sb.ToString();
         }
-
-
-
     }
 }

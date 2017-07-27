@@ -67,27 +67,24 @@ namespace estante
         }
         public static Estante operator - (Estante e, ETipoProducto tipo)
         {
-            Estante eAux = new Estante(e._capacidad);
-            eAux=e;
-
             for (int i=0; i < e.Productos.Count;i++ )
             {
                 switch (tipo)
                 {
                     case ETipoProducto.Galletita:
                         if (e.Productos[i] is Galletita)
-                        eAux  -= e.Productos[i]; //eAux.Productos.Remove(p);  seria lo mismo.
+                            e -= e.Productos[i]; //eAux.Productos.Remove(p);  seria lo mismo.
                         break;
                     case ETipoProducto.Gaseosa:
                         if (e.Productos[i] is Gaseosa)
-                            eAux -= e.Productos[i];
+                            e -= e.Productos[i];
                         break;
                     case ETipoProducto.Jugo:
                         if (e.Productos[i] is Jugo)
-                           eAux -= e.Productos[i]; ;
+                            e -= e.Productos[i]; ;
                         break;
                     case ETipoProducto.Todos:
-                        eAux -= e.Productos[i];
+                            e -= e.Productos[i];
                         break;
                     default:
                         break;

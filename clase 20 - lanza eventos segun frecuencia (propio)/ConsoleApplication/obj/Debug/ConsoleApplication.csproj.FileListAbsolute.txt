@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\bin\Debug\ejemplo eventos.dll
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\bin\Debug\ejemplo eventos.pdb
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Daniel\Desktop\ejemplo eventos\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

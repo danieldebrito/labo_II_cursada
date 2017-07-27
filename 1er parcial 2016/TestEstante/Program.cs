@@ -32,6 +32,9 @@ namespace TestEstante
             Gaseosa gs4 = new Gaseosa(3256, EMarcaProducto.Pitusas, 5.00f, 550f);
             #endregion
 
+            Console.WriteLine("igual marca con enumerado: " + (gs4 == EMarcaProducto.Manaos).ToString());
+            Console.ReadKey();
+
             if (e1 + j1)
                 e1.Productos.Add(j1);
             if (e1 + j2)

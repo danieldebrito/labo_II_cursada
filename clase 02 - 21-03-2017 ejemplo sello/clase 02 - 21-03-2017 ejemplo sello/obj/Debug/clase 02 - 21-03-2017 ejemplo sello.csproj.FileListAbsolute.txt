@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\programacion2 - 2017\clase 02 - 21-03-2017 ejemplo sello\clase 02 - 21-03-2017 ejemplo sello\bin\Debug\clase 02 - 21-03-2017 ejemplo sello.exe.config
+C:\Users\alumno\Desktop\programacion2 - 2017\clase 02 - 21-03-2017 ejemplo sello\clase 02 - 21-03-2017 ejemplo sello\obj\Debug\clase 02 - 21-03-2017 ejemplo sello.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\programacion2 - 2017\clase 02 - 21-03-2017 ejemplo sello\clase 02 - 21-03-2017 ejemplo sello\bin\Debug\clase 02 - 21-03-2017 ejemplo sello.exe
+C:\Users\alumno\Desktop\programacion2 - 2017\clase 02 - 21-03-2017 ejemplo sello\clase 02 - 21-03-2017 ejemplo sello\bin\Debug\clase 02 - 21-03-2017 ejemplo sello.pdb
+C:\Users\alumno\Desktop\programacion2 - 2017\clase 02 - 21-03-2017 ejemplo sello\clase 02 - 21-03-2017 ejemplo sello\obj\Debug\clase 02 - 21-03-2017 ejemplo sello.exe
+C:\Users\alumno\Desktop\programacion2 - 2017\clase 02 - 21-03-2017 ejemplo sello\clase 02 - 21-03-2017 ejemplo sello\obj\Debug\clase 02 - 21-03-2017 ejemplo sello.pdb

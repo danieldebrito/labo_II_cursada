@@ -13,3 +13,6 @@ C:\Users\Daniel\Desktop\PaletaLista\PaletaForm\obj\Debug\PaletaForm.FormTempera.
 C:\Users\Daniel\Desktop\PaletaListaForm\PaletaForm\bin\Debug\PaletaForm.exe.config
 C:\Users\Daniel\Desktop\PaletaListaForm\PaletaForm\obj\Debug\PaletaForm.exe
 C:\Users\Daniel\Desktop\PaletaListaForm\PaletaForm\obj\Debug\PaletaForm.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 06 - PaletaListaForm\PaletaForm\bin\Debug\PaletaForm.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 06 - PaletaListaForm\PaletaForm\obj\Debug\PaletaForm.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 06 - PaletaListaForm\PaletaForm\obj\Debug\PaletaForm.pdb

@@ -1,0 +1,20 @@
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQLLibrary.Properties.Resources.resources
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\Resources\Padron_log.ldf
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\Resources\Padron.mdf
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.dll.config
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\bin\Debug\Resources\Padron_log.ldf
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\bin\Debug\Resources\Padron.mdf
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.dll.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\obj\Debug\ConexionSQLLibrary.Properties.Resources.resources
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.GenerateResource.Cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.pdb

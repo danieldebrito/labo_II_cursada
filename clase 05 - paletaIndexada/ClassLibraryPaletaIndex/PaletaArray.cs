@@ -80,7 +80,7 @@ namespace ClassLibraryPaletaIndex
             StringBuilder sb = new StringBuilder();
 
             for (int i = 0; i < p.CantTemperas; i++)
-                sb.AppendFormat("Capitulo {0}: {1}\n", p[i].Color, p[i].Tamaño);
+                sb.AppendFormat("Tempera {0}: {1}\n", p[i].Color, p[i].Tamaño);
             return sb.ToString();
         }
         #endregion

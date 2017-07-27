@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\metodoDeExtension\LibMetExtension\bin\Debug\LibMetExtension.dll
+C:\Users\Daniel\Desktop\metodoDeExtension\LibMetExtension\bin\Debug\LibMetExtension.pdb
+C:\Users\Daniel\Desktop\metodoDeExtension\LibMetExtension\obj\Debug\LibMetExtension.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\metodoDeExtension\LibMetExtension\obj\Debug\LibMetExtension.dll
+C:\Users\Daniel\Desktop\metodoDeExtension\LibMetExtension\obj\Debug\LibMetExtension.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\LibMetExtension\bin\Debug\LibMetExtension.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\LibMetExtension\bin\Debug\LibMetExtension.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\LibMetExtension\bin\Debug\ClassLibrary1.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\LibMetExtension\obj\Debug\LibMetExtension.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\LibMetExtension\obj\Debug\LibMetExtension.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\metodoDeExtension\LibMetExtension\obj\Debug\LibMetExtension.pdb

@@ -3,3 +3,6 @@ F:\clase 11\clase 11\bin\Debug\clase 11.exe
 F:\clase 11\clase 11\bin\Debug\clase 11.pdb
 F:\clase 11\clase 11\obj\Debug\clase 11.exe
 F:\clase 11\clase 11\obj\Debug\clase 11.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 07 - herencia - mod parcial\herencia persona-alumno-profesor\clase 11\bin\Debug\clase 11.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 07 - herencia - mod parcial\herencia persona-alumno-profesor\clase 11\obj\Debug\clase 11.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 07 - herencia - mod parcial\herencia persona-alumno-profesor\clase 11\obj\Debug\clase 11.pdb

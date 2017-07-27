@@ -1,0 +1,8 @@
+E:\EmpleadoClassLibrary\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\EmpleadoClassLibrary\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\EmpleadoClassLibrary\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\EmpleadoClassLibrary\ConsoleApplication\bin\Debug\EmpleadoClassLibrary.dll
+E:\EmpleadoClassLibrary\ConsoleApplication\bin\Debug\EmpleadoClassLibrary.pdb
+E:\EmpleadoClassLibrary\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\EmpleadoClassLibrary\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\EmpleadoClassLibrary\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

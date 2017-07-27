@@ -115,6 +115,7 @@ namespace VehiculoClassLibrary
                 XmlTextWriter xmlTW = new XmlTextWriter(path + archivo, UTF8Encoding.UTF8);
                 xmls.Serialize(xmlTW, Lista);
                 xmlTW.Close();
+				Console.ReadKey();
                 return true;
             }
             catch (Exception e)

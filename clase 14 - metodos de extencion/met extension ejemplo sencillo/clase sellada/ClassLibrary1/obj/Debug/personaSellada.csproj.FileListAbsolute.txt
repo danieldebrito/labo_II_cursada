@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Nueva carpeta\clase sellada\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\clase sellada\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Daniel\Desktop\Nueva carpeta\clase sellada\ClassLibrary1\obj\Debug\personaSellada.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Nueva carpeta\clase sellada\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Daniel\Desktop\Nueva carpeta\clase sellada\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

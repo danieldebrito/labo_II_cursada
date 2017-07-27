@@ -1,0 +1,20 @@
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.exe.config
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\Resources\Padron_log.ldf
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\Resources\Padron.mdf
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.exe
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\bin\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.exe
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\Resources\Padron_log.ldf
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\Resources\Padron.mdf
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\ConsoleAppABM.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\ConexionSQL.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\bin\Debug\ConexionSQL.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 18 - base de datos\clase 18 - ConexionSQL\ConsoleAppABM\obj\Debug\ConsoleAppABM.csprojResolveAssemblyReference.cache

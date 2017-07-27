@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Entidades\bin\Debug\Entidades.dll
+C:\Users\Daniel\Desktop\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Desktop\Entidades\obj\Debug\Entidades.dll
+C:\Users\Daniel\Desktop\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Daniel\Desktop\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

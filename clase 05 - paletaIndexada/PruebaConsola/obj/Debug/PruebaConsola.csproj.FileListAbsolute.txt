@@ -6,3 +6,14 @@ C:\Users\Daniel\Desktop\PaletaIndex\PruebaConsola\bin\Debug\ClassLibraryPaletaIn
 C:\Users\Daniel\Desktop\PaletaIndex\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\PaletaIndex\PruebaConsola\obj\Debug\PruebaConsola.exe
 C:\Users\Daniel\Desktop\PaletaIndex\PruebaConsola\obj\Debug\PruebaConsola.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\obj\Debug\PruebaConsola.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\obj\Debug\PruebaConsola.pdb
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\bin\Debug\PruebaConsola.exe
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\bin\Debug\PruebaConsola.pdb
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\bin\Debug\ClassLibraryPaletaIndex.dll
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\bin\Debug\ClassLibraryPaletaIndex.pdb
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\obj\Debug\PruebaConsola.exe
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\PruebaConsola\obj\Debug\PruebaConsola.pdb

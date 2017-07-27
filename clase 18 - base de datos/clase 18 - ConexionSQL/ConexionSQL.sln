@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionSQL", "ConexionSQL\ConexionSQL.csproj", "{D77EBEF4-EFB5-44D4-8302-6EB0EAF59A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{D28FA4B1-5857-4C8B-96CF-DA0487F738BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppABM", "ConsoleAppABM\ConsoleAppABM.csproj", "{B9A7E4D4-79EE-4682-9D40-CB81D39A1830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77EBEF4-EFB5-44D4-8302-6EB0EAF59A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77EBEF4-EFB5-44D4-8302-6EB0EAF59A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77EBEF4-EFB5-44D4-8302-6EB0EAF59A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77EBEF4-EFB5-44D4-8302-6EB0EAF59A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28FA4B1-5857-4C8B-96CF-DA0487F738BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28FA4B1-5857-4C8B-96CF-DA0487F738BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28FA4B1-5857-4C8B-96CF-DA0487F738BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28FA4B1-5857-4C8B-96CF-DA0487F738BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A7E4D4-79EE-4682-9D40-CB81D39A1830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A7E4D4-79EE-4682-9D40-CB81D39A1830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A7E4D4-79EE-4682-9D40-CB81D39A1830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A7E4D4-79EE-4682-9D40-CB81D39A1830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

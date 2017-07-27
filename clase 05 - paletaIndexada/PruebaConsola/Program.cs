@@ -22,6 +22,7 @@ namespace PruebaConsola
             miPaleta[6] = ConsoleColor.White;
             miPaleta[7] = ConsoleColor.Yellow;
             miPaleta[8] = ConsoleColor.DarkMagenta;
+            
 
             Console.WriteLine(PaletaArray.Mostrar(miPaleta));
             Console.ReadKey();

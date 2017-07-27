@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\Resources\Padron_log.ldf
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\Resources\Padron.mdf
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\ConexionSQL.dll
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\bin\Debug\ConexionSQL.pdb
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Daniel\Desktop\ConexionSQL\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb

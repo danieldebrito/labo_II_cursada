@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\estante.dll
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\estante.pdb
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\obj\Debug\TestEstante.pdb

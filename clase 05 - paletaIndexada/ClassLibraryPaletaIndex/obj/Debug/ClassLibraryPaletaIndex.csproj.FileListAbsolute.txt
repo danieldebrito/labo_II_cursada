@@ -3,3 +3,8 @@ C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\bin\Debug\ClassLibra
 C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.csprojResolveAssemblyReference.cache
 C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.dll
 C:\Users\Daniel\Desktop\PaletaIndex\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.pdb
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\ClassLibraryPaletaIndex\bin\Debug\ClassLibraryPaletaIndex.dll
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\ClassLibraryPaletaIndex\bin\Debug\ClassLibraryPaletaIndex.pdb
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.csprojResolveAssemblyReference.cache
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.dll
+E:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paletaIndexada\ClassLibraryPaletaIndex\obj\Debug\ClassLibraryPaletaIndex.pdb

@@ -6,3 +6,11 @@ C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\estante.dll
 C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\bin\Debug\estante.pdb
 C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\obj\Debug\TestEstante.exe
 C:\Users\Daniel\Desktop\1er parcial 2016\TestEstante\obj\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\bin\Debug\TestEstante.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\obj\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\obj\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\bin\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\bin\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\bin\Debug\estante.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\bin\Debug\estante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\1er parcial 2016\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache

@@ -15,7 +15,7 @@ namespace ConsoleAppLista
         {
            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\archList.xml";  // genero el path
            List<Persona> listaPersona = new List<Persona>();
-           List<Persona> listaPersonaAux;  // persona aux para tirarle la deserializada
+           List<Persona> listaPersonaAux;  // lista de persona vacia aux para tirarle la deserializada
 
            Persona pp1 = new Persona("Joey Ramone", 49, true);
            Persona pp2 = new Persona("Johnny Ramone", 55, true);

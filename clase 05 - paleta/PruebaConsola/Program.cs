@@ -12,7 +12,6 @@ namespace PruebaConsola
         static void Main(string[] args)
         {
             Paleta p1 = 3;
-            Paleta p2 = 4;
 
             Tempera t_roja = new Tempera(ConsoleColor.Red, "faber", 5);
             Tempera t_verde = new Tempera(ConsoleColor.Green, "pelican", 4);
@@ -31,11 +30,6 @@ namespace PruebaConsola
             p1 += t_amarilla;  // sumo nuevamente la amarilla
 
             Console.WriteLine((string)p1);
-
-            p2 += t_verde; // le cargo una sola tempera a p2
-            p2 += p1; // combina ambas paletas en p2
-
-            Console.WriteLine((string)p2);
             
             Console.ReadKey();
         }

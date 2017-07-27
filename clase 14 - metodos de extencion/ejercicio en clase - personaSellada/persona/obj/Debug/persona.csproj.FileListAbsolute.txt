@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\clase - persona\persona\bin\Debug\persona.dll
+C:\Users\alumno\Desktop\clase - persona\persona\bin\Debug\persona.pdb
+C:\Users\alumno\Desktop\clase - persona\persona\obj\Debug\persona.dll
+C:\Users\alumno\Desktop\clase - persona\persona\obj\Debug\persona.pdb
+C:\Users\alumno\Desktop\clase - persona\persona\bin\Debug\Entidades.Externa.dll
+C:\Users\alumno\Desktop\clase - persona\persona\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\alumno\Desktop\clase - persona\persona\obj\Debug\persona.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\persona\bin\Debug\persona.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\persona\bin\Debug\persona.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\persona\obj\Debug\persona.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\persona\obj\Debug\persona.pdb

@@ -22,11 +22,3 @@ F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - palet
 F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\Tintero.dll
 F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\Tintero.pdb
 F:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\PruebaConsola.exe.config
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\obj\Debug\PruebaConsola.exe
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\obj\Debug\PruebaConsola.pdb
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\PruebaConsola.exe
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\PruebaConsola.pdb
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\Tintero.dll
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\bin\Debug\Tintero.pdb
-D:\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 05 - paleta\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache

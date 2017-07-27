@@ -1,0 +1,21 @@
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\persona.dll
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\persona.pdb
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\Entidades.Externa.dll
+C:\Users\alumno\Desktop\clase - persona\ConsoleApplication1\bin\Debug\Entidades.Externa.Sellada.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\bin\Debug\persona.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\bin\Debug\persona.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\clase - persona\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\ejercicio en clase - personaSellada\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\ejercicio en clase - personaSellada\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\ejercicios 2017\clase 14 - metodos de extencion\ejercicio en clase - personaSellada\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
