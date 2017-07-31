@@ -1,0 +1,21 @@
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\sistemaGestionSanatorio.exe.config
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\sistemaGestionSanatorio.exe
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\sistemaGestionSanatorio.pdb
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\Entidades.dll
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.Properties.Resources.resources
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.exe
+C:\Users\Daniel\Desktop\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\sistemaGestionSanatorio.exe.config
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\sistemaGestionSanatorio.exe
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\sistemaGestionSanatorio.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\Entidades.dll
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\bin\Debug\Entidades.pdb
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.csprojResolveAssemblyReference.cache
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.frmFinal.resources
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.Properties.Resources.resources
+D:\programacion\utn tssi\2do cuatrimestre\24 programacion II\examenes\final lab\07-2017(3)\practica.final.tomado.27-07-2017\sistemaGestionSanatorio\obj\Debug\sistemaGestionSanatorio.csproj.GenerateResource.Cache
