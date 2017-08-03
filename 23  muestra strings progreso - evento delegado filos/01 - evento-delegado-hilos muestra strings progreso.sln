@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabajadora", "Trabajadora\Trabajadora.csproj", "{6E71C460-0656-4DE6-BEAD-0C7DB63BE6B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication", "WindowsFormsApplication\WindowsFormsApplication.csproj", "{FE76156F-B33F-4CF9-B412-11492B16E869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E71C460-0656-4DE6-BEAD-0C7DB63BE6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E71C460-0656-4DE6-BEAD-0C7DB63BE6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E71C460-0656-4DE6-BEAD-0C7DB63BE6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E71C460-0656-4DE6-BEAD-0C7DB63BE6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE76156F-B33F-4CF9-B412-11492B16E869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE76156F-B33F-4CF9-B412-11492B16E869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE76156F-B33F-4CF9-B412-11492B16E869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE76156F-B33F-4CF9-B412-11492B16E869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

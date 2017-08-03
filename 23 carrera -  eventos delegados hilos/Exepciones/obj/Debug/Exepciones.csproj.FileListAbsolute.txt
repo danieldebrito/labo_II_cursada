@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\ClassLibrary\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\Daniel\Desktop\ClassLibrary\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\Daniel\Desktop\ClassLibrary\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\Daniel\Desktop\ClassLibrary\Exepciones\obj\Debug\Exepciones.pdb
+C:\Users\Daniel\Desktop\02 carrera -  eventos delegados hilos\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\Daniel\Desktop\02 carrera -  eventos delegados hilos\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\Daniel\Desktop\02 carrera -  eventos delegados hilos\Exepciones\obj\Debug\Exepciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\02 carrera -  eventos delegados hilos\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\Daniel\Desktop\02 carrera -  eventos delegados hilos\Exepciones\obj\Debug\Exepciones.pdb

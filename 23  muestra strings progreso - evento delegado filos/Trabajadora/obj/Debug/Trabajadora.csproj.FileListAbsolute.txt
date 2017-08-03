@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\01 - evento-delegado-hilos muestra strings progreso\Trabajadora\bin\Debug\Trabajadora.dll
+C:\Users\Daniel\Desktop\01 - evento-delegado-hilos muestra strings progreso\Trabajadora\bin\Debug\Trabajadora.pdb
+C:\Users\Daniel\Desktop\01 - evento-delegado-hilos muestra strings progreso\Trabajadora\obj\Debug\Trabajadora.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\01 - evento-delegado-hilos muestra strings progreso\Trabajadora\obj\Debug\Trabajadora.dll
+C:\Users\Daniel\Desktop\01 - evento-delegado-hilos muestra strings progreso\Trabajadora\obj\Debug\Trabajadora.pdb
